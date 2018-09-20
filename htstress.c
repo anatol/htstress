@@ -46,6 +46,7 @@ OF SUCH DAMAGE.
 #include <signal.h>
 #include <sys/epoll.h>
 #include <inttypes.h>
+#include <unistd.h>
 
 #define HTTP_REQUEST_PREFIX "http://"
 
